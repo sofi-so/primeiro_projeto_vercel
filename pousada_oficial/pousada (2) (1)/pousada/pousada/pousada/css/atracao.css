@@ -1,0 +1,22 @@
+.montserrat {
+  font-family: "Montserrat", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 300;
+  font-style: normal;
+}
+
+.enunciado p {
+    width: 1000px;
+    text-align: center;
+    margin-left: 350px;
+    margin-top: 40px;
+    font-size: 17px;
+    font-family: "Montserrat", sans-serif;
+    text-indent: 40px;
+    text-align: justify;
+   
+}
+
+.cards {
+  margin-top: 80px;
+}
